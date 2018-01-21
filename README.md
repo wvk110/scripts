@@ -1,0 +1,2 @@
+# scripts
+pubchem_practice
